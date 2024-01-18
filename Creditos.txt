@@ -1,0 +1,25 @@
+Assets do curso "Jogo de Luta de Rua (Beat'em up) na Unity", por Gabriel Chiarelli.
+
+Efeitos Sonoros:
+
+Soco, Chute e Comida: Criei utlizando o programa Bfxr.
+Grunhidos: [ Sound Effect from Pixabay ] ("Ough!" alterado no Audacity)
+
+
+Fonte:
+
+Public Pixel Font [ GGBotNet ] - https://www.fontspace.com/public-pixel-font-f72305
+
+
+Gráficos:
+
+Free Pixel Food! [ Henry Software ] - https://henrysoftware.itch.io/pixel-food
+Streets of Fight [ Luis Zuno (@ansimuz) ] - https://ansimuz.itch.io/streets-of-fight
+
+
+Música:
+
+Fightwave [ by Aila Scott ] - https://ailascott.itch.io/fightwave-16-bit-retro-fight-music-free-creative-commons
+License: CC 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Game Over [ Sound Effect from Pixabay ]
